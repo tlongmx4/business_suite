@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\business_tool\\app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94C8B07F-796B-42AE-B91C-08615EDB2FC6}|app.pyproj|C:\\business_tool\\app\\database.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{94C8B07F-796B-42AE-B91C-08615EDB2FC6}|app.pyproj|solutionrelative:database.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C8B07F-796B-42AE-B91C-08615EDB2FC6}|app.pyproj|C:\\business_tool\\app\\crud.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{94C8B07F-796B-42AE-B91C-08615EDB2FC6}|app.pyproj|solutionrelative:crud.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C8B07F-796B-42AE-B91C-08615EDB2FC6}|app.pyproj|C:\\business_tool\\app\\schemas.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{94C8B07F-796B-42AE-B91C-08615EDB2FC6}|app.pyproj|solutionrelative:schemas.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C8B07F-796B-42AE-B91C-08615EDB2FC6}|app.pyproj|C:\\business_tool\\app\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{94C8B07F-796B-42AE-B91C-08615EDB2FC6}|app.pyproj|solutionrelative:models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C8B07F-796B-42AE-B91C-08615EDB2FC6}|app.pyproj|C:\\business_tool\\app\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{94C8B07F-796B-42AE-B91C-08615EDB2FC6}|app.pyproj|solutionrelative:app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "database.py",
+              "DocumentMoniker": "C:\\business_tool\\app\\database.py",
+              "RelativeDocumentMoniker": "database.py",
+              "ToolTip": "C:\\business_tool\\app\\database.py",
+              "RelativeToolTip": "database.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-29T18:57:42.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "crud.py",
+              "DocumentMoniker": "C:\\business_tool\\app\\crud.py",
+              "RelativeDocumentMoniker": "crud.py",
+              "ToolTip": "C:\\business_tool\\app\\crud.py",
+              "RelativeToolTip": "crud.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-29T18:57:28.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "schemas.py",
+              "DocumentMoniker": "C:\\business_tool\\app\\schemas.py",
+              "RelativeDocumentMoniker": "schemas.py",
+              "ToolTip": "C:\\business_tool\\app\\schemas.py",
+              "RelativeToolTip": "schemas.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-29T18:57:16.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "models.py",
+              "DocumentMoniker": "C:\\business_tool\\app\\models.py",
+              "RelativeDocumentMoniker": "models.py",
+              "ToolTip": "C:\\business_tool\\app\\models.py",
+              "RelativeToolTip": "models.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-29T18:57:04.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.py",
+              "DocumentMoniker": "C:\\business_tool\\app\\app.py",
+              "RelativeDocumentMoniker": "app.py",
+              "ToolTip": "C:\\business_tool\\app\\app.py",
+              "RelativeToolTip": "app.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-29T18:56:21.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
